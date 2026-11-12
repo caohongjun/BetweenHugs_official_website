@@ -26,9 +26,9 @@ window.BETWEENHUGS_CONFIG = {
 
 Until URLs are configured, tapping either store badge opens a *Coming soon* dialog, rather than sending visitors to incorrect links. The header Download button scrolls to the badges.
 
-## Legal pages — important
+## Legal pages
 
-`terms.html` and `privacy.html` are **working webpages containing review drafts, not finalized legal policies**. Replace bracketed placeholders, verify all statements against implemented product behavior (especially Firebase, photo metadata, account deletion, subscriptions and retention), and obtain appropriate legal review before publishing. Do not launch with draft placeholders.
+`terms.html` and `privacy.html` are the Terms of Service and Privacy Policy, effective November 12, 2026. Account deletion is offered in the app (Settings → Delete Account), not on this website.
 
 ## Files
 
